@@ -5,5 +5,5 @@
 > Incluir todas as referências bibliográficas (livros, artigos, _sites_, etc) utilizados no desenvolvimento do trabalho.
 
 > **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+> - [Formato ABNT](https://www.normastecnicas.com/referencias/)
+> - [Referências Bibliográficas da ABNT](https://rockcontent.com/br/talent-blog/referencia-bibliografica-abnt/)
