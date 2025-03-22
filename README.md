@@ -8,7 +8,7 @@ Projeto de Software
 `SEMESTRE:`
 
 `Objetivos de Desenvolvimento Sustentável (ODS) da ONU:` 
-> Incluir o(s) número(s) e a(s) descrição(ões) do(s) ODS da ONU que o TCC atende. 
+> Incluir o(s) número(s) e a(s) descrição(ões) do(s) ODS da ONU que o projeto atende. 
 
 ## Participantes
 
