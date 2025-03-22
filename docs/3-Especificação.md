@@ -91,7 +91,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 > Detalhar o padrão arquitetural (arquitetura de _software_) do sistema desenvolvido.
 
-## Padrões de Projeto
+## Padrão de Projeto
 
 > Especificar, no mínimo, 3 padrões de projeto utilizados no sistema desenvolvido.
 
