@@ -6,9 +6,9 @@
 
 ## Ferramentas
 
-> Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha de cada uma delas. 
+> Listar quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha de cada uma delas. 
 
 ## Cronograma
 
-> Apresente o cronograma de desenvolvimento do projeto.
+> Apresentar o cronograma de desenvolvimento do projeto.
 
