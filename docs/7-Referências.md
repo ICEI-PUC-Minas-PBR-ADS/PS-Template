@@ -1,6 +1,6 @@
 # Referências Bibliográficas
 
-<span style="color:red">Pré-requisitos: <a href="6-Conclusão.md">Resultado</a></span>
+<span style="color:red">Pré-requisitos: <a href="6-Conclusão.md">Conclusão</a></span>
 
 > Incluir todas as referências bibliográficas (livros, artigos, _sites_, etc) utilizados no desenvolvimento do trabalho.
 

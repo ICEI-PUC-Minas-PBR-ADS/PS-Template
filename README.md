@@ -1,7 +1,7 @@
-# Informações sobre o Trabalho de Conclusão de Curso (TCC)
-`TÍTULO DO TCC`  
+# Informações sobre o Projeto
+`TÍTULO DO PROJETO`  
 
-Trabalho de Conclusão de Curso (TCC)
+Projeto de Software
 
 `CURSO`: 
 
@@ -18,20 +18,19 @@ Os membros da equipe são:
 
 > Incluir a lista dos membros da equipe com seus nomes completos.
 
-# Estrutura do Projeto
+## Estrutura do Projeto
 
-1. [Contexto](./docs/1-Contexto.md)
-2. [Especificação do Projeto](./docs/2-Especificação.md)
-4. [Gerenciamento do Projeto](./docs/4-Gerenciamento-Projeto.md)
-5. [Implementação](./docs/5-Implementação.md)
-6. [Referências](./docs/6-Referências.md)
-7. [Apresentação do trabalho](./docs/apresentacao/README.md) 
-
-
+1. [Introdução](./docs/1-Introdução.md)
+2. [Trabalhos Relacionados](./docs/2-TrabalhosRelacionados.md)
+3. [Especificação do Projeto](./docs/3-Especificação.md)
+4. [Metodologia](./docs/4-Metodologia.md)
+5. [Resultado](./docs/5-Resultado.md)
+6. [Conclusão](./docs/6-Conclusão.md)
+7. [Referências Bibliográficas](./docs/7-Referências.md) 
 
 ## Pasta docs
 
-Esta pasta arquiva a documentação dos projetos.
+Esta pasta arquiva a documentação do projeto.
 
 Na pasta `docs`, há uma subpasta `apresentacao` que armazena os arquivos utilizados para a apresentação do trabalho.
 
@@ -45,7 +44,7 @@ videos do trabalho.
 
 ## Pasta src
 
-Este diretório armazena o código fonte do projeto
+Este diretório armazena o código fonte do projeto.
 
 ### Links Úteis:
 

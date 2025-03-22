@@ -1,12 +1,12 @@
-# Especificação do Trabalho de Conclusão de Curso
+# Especificação do Projeto
 
 <span style="color:red">Pré-requisitos: <a href="2-TrabalhosRelacionados.md"> Trabalhos Relacionados</a></span>
 
 > Escrever um parágrafo inicial, apresentando uma visão geral do que é abordado nesta parte do documento. Enumerar técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto.
 
-## Título que especifica o TCC
+## Título que especifica o projeto
 
-> Escrever o texto que epecifica (explica, desenvolve) o TCC.
+> Escrever o texto que epecifica (explica, desenvolve) o projeto.
 
 ## Personas
 
@@ -75,9 +75,28 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| Não pode ser desenvolvido um módulo de backend        |
 
 
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
+> Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
+ 
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
 > - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+
+## Prototipagem e Fluxo do Usuário
+
+> Apresentar o protótipo das telas da aplicação.
+
+> Apresentar o fluxo do usuário (_user flow_: navegação do usuário pelas telas da aplicação).
+
+## Padrão Arquitetural
+
+> Detalhar o padrão arquitetural (arquitetura de _software_) do sistema desenvolvido.
+
+## Padrões de Projeto
+
+> Especificar, no mínimo, 3 padrões de projeto utilizados no sistema desenvolvido.
+
+## Banco de Dados
+
+> Apresentar o banco de dados desenvolvido para a aplicação.
+
+> Apresentar o Diagrama de Entidades e Relacionamentos (DER) da aplicação.
