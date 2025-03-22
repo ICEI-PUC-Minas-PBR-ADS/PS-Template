@@ -46,6 +46,10 @@ videos do trabalho.
 
 Este diretório armazena o código fonte do projeto.
 
+## Pasta seminario
+
+Este diretório armazena o material desenvolvido para o seminário sobre padrões de projeto.
+
 ### Links Úteis:
 
 Aprenda Markdown e use-o para documentar o projeto  
