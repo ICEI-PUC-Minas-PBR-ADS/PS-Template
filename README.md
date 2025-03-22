@@ -1,4 +1,4 @@
-# Informações sobre o Projeto
+# Informação sobre o Projeto
 `TÍTULO DO PROJETO`  
 
 Projeto de Software
