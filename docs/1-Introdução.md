@@ -19,7 +19,7 @@
 
 > Descrever a importância ou a motivação para trabalhar com o problema escolhido. 
 
-> Indicar as razões pelas quais você escolheu seu objetivo.
+> Indicar as razões pelas quais a equipe escolheu o objetivo.
  
 > A equipe de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema abordado no projeto.
 
