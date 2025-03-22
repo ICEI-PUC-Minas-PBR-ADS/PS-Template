@@ -27,3 +27,5 @@
 
 > Descrever o perfil do(s) grupo(s) de pessoas beneficiadas pelo projeto. A ideia é, dentro do possível, destacar: conhecimentos prévios, relação com a tecnologia, relações
 hierárquicas, relação com o problema tratado no projeto, etc.
+
+[Próximo](./2-TrabalhosRelacionados.md)
