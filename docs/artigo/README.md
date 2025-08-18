@@ -61,6 +61,41 @@ https://orcid.org/0000-0003-0879-0943
 
 # Introdução
 
+> A introdução deve contextualizar o trabalho. 
+> Na contextualização, a equipe deve dizer do que se trata o trabalho, em que área ou contexto se insere. 
+> A contextualização deve ser desenvolvida de algo mais genérico para algo mais específico. 
+> É necessário citar pesquisas aqui (corretamente referenciadas).
+
+
+Contexto (do geral para o específico): 
+
+Lacuna ("gap"): (Entretanto, contudo, no entanto, apesar disso, embora)... 
+
+
+Objetivo (propósito): (Neste artigo, neste trabalho, aqui) foi (apresentado, descrito, mostrado, reportado)... 
+
+Objetivo: 
+O objetivo deste trabalho foi desenvolver um projeto de software que aplique os conceitos e práticas de design de software, incluindo análise de requisitos, modelagem, escolha de arquiteturas e design de interfaces. [Os alunos deverão demonstrar a capacidade de criar um sistema que seja funcional, escalável e usável].
+Tema: 
+Desenvolvimento de um sistema de gestão ativos financeiros adquiridos pelos clientes de uma corretora de títulos e valores mobiliários (CTVM).
+
+Prof. Dr. Valtencir Zucolotto, USP
+(https://www.youtube.com/channel/UCc3JDWPbI4s0b-AeJ3WN03g/videos):
+
+Motivação/Justificativa: 
+
+Trabalhos relacionados/Fundamentação teórica/Revisão de literatura: 
+
+Contribuição (principal resultado e discussão):  
+Importante:
+•	Clareza e detalhamento dos requisitos levantados.
+•	Qualidade e adequação dos diagramas.
+•	Coerência na escolha da arquitetura e tecnologias.
+•	Criatividade e usabilidade dos protótipos de interface.
+•	Estrutura e clareza da documentação final.
+
+
+
 ## Problema
 > Apresentar o contexto do problema que o projeto aborda.
 
@@ -90,3 +125,10 @@ https://orcid.org/0000-0003-0879-0943
 hierárquicas, relação com o problema tratado no projeto, etc.
 
 [Próximo](./2-TrabalhosRelacionados.md)
+
+
+Leia mais: https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3
+Leia mais: https://blog.mettzer.com/como-fazer-a-justificativa-de-tcc/
+Leia mais: https://hotmart.com/pt-br/blog/publico-alvo
+
+(Prof. Dr. Valtencir Zucolotto, USP)[(https://www.youtube.com/channel/UCc3JDWPbI4s0b-AeJ3WN03g/videos)]
