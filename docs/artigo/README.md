@@ -136,7 +136,6 @@ buscando uma agência que o ajude a encontrar universidades na Europa
 que aceitem alunos estrangeiros.
 
 ## Histórias de Usuários
-> __Exemplo__:
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 > __Exemplo__:
@@ -153,25 +152,8 @@ __Fonte__: elaborado pelos autores.
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais, não funcionais e restrições que detalham o escopo do projeto.
-
-### Requisitos Funcionais
-
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
-
-### Requisitos não Funcionais
-
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
+> solução. Classifique esses requisitos em 3 grupos:
 >
 > - [Requisitos Funcionais
 >   (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
@@ -180,22 +162,47 @@ As tabelas que se seguem apresentam os requisitos funcionais, não funcionais e 
 >
 > - [Requisitos Não Funcionais
 >   (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
+>   correspondem a uma característica técnica (qualidade), seja de usabilidade,
 >   desempenho, confiabilidade, segurança ou outro (ex: suporte a
 >   dispositivos iOS e Android).
 >
+> - Restrições.
+>
 > Lembre-se que cada requisito deve corresponder à uma e somente uma
 > característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+> todos os aspectos capturados nas Histórias de Usuário foram cobertos nos requisitos.
 
-## Restrições
+Os quadros que se seguem apresentam os requisitos funcionais, não funcionais e restrições que detalham o escopo do projeto.
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+### Requisitos Funcionais
 
+__Quadro 2__: requisitos funcionais.
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+__Fonte__: elaborado pelos autores.
+
+
+### Requisitos não Funcionais
+
+__Quadro 3__: requisitos não funcionais.
+|ID     | Descrição do Requisito  |Prioridade |
+|-------|-------------------------|----|
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+__Fonte__: elaborado pelos autores.
+
+### Restrições
+
+O projeto está restrito pelos itens apresentados no quadro a seguir.
+
+__Quadro 4__: restrições.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
+__Fonte__: elaborado pelos autores.
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
@@ -213,6 +220,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ## Padrão Arquitetural
 
 > Detalhar o padrão arquitetural (arquitetura de _software_) do sistema desenvolvido.
+> __OBS__: neste caso o padrão arquitetural REST.
 
 ## Padrão de Projeto
 
