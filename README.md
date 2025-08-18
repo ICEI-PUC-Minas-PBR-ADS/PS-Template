@@ -237,7 +237,9 @@ __Fonte__: elaborado pelos autores.
 > Apresentar o diagrama de sequência da aplicação.
 
 ## Banco de Dados
+> Justificar a escolha do banco de dados utilizado, com base nas necessidades do projeto e nos requisitos de armazenamento de dados. 
 > Apresentar o Diagrama de Entidades e Relacionamentos (DER) da aplicação.
+> A equipe também pode utilizar um banco de dados NoSQL, desde que devidamente justificado.
 
 ## Padrão de Projeto
 > Especificar, os padrões de projeto (GoF) utilizados no sistema desenvolvido.
