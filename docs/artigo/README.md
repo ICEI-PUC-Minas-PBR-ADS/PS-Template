@@ -252,6 +252,31 @@ Detalhar a metodologia empregada no desenvolvimento do projeto.
 
 > Apresentar o cronograma de desenvolvimento do projeto.
 
+# Resultado
+> Apresentar o(s) resultado(s) encontrado(s). Empregar texto, figuras, tabelas, quadros, estatíticas, etc.
 
+## Validação
 
+> Quando necessário, validar o(s) resultado(s) encontrado(s).
 
+## Discussão
+
+> Discutir (explicar, detalhar, comparar, etc) o(s) resultado(s) encontrado(s).
+
+# Conclusão e Trabalhos Futuros
+
+> Apresentar a conclusão e os trabalhos futuros (do específico para o geral).
+
+# Referências Bibliográficas
+
+> Incluir todas as referências bibliográficas (livros, artigos, _sites_, etc) utilizados no desenvolvimento do trabalho.
+
+> Consultar por artigos no site da biblioteca.
+
+> Empregar artigos de qualidade. __Exemplo__: artigos da ACM, do IEEE e da Sociedade Brasileira de Computação.
+
+> Empregar o padrão da ABNT.
+
+> **Links Úteis**:
+> - [Formato ABNT](https://www.normastecnicas.com/referencias/)
+> - [Referências Bibliográficas da ABNT](https://rockcontent.com/br/talent-blog/referencia-bibliografica-abnt/)
