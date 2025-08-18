@@ -265,19 +265,31 @@ Detalhar a metodologia empregada no desenvolvimento do projeto.
 > Apresentar o cronograma de desenvolvimento do projeto.
 
 # Resultado
-> Apresentar o(s) resultado(s) encontrado(s). Empregar texto, figuras, tabelas, quadros, estatíticas, etc.
+> Apresentar o(s) resultado(s) encontrado(s). Empregar texto, figuras, tabelas, quadros, gráficos, resultados de cálculos ou de pesquisas, estatíticas, _prints_ das telas da aplicação, etc.
 
 ## Validação
 
 > Quando necessário, validar o(s) resultado(s) encontrado(s).
+> Validação = qualidade dos resultados, análise de dados, análise estatística: figuras, tabelas, gráficos, imagens, resultados de cálculos ou pesquisas e texto. 
 
 ## Discussão
 
 > Discutir (explicar, detalhar, comparar, etc) o(s) resultado(s) encontrado(s).
+> Discussão = interpretação, comparação. 
 
 # Conclusão e Trabalhos Futuros
 
-> Apresentar a conclusão e os trabalhos futuros (do específico para o geral).
+> Apresentar a conclusão e os trabalhos futuros (do específico para o geral);
+
+> 1. __Principais resultados__ (descobertas-chave e interpretação dos resultados principais). 
+
+> 2. __Contribuição__ (demonstrar a importância do trabalho desenvolvido, como o trabalho amplia as fronteiras da área de estudo, implicações dos resultados). 
+
+> 3. __Trabalhos futuros__. 
+
+
+> __OBS__: cada item com aproximadamente 5 ou 8 linhas.
+ 
 
 # Referências Bibliográficas
 
