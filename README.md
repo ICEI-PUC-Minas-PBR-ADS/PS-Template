@@ -257,7 +257,7 @@ Detalhar a metodologia empregada no desenvolvimento do projeto.
 
 ## Ferramentas
 > Informar as tecnologias empregadas.
-
+> Informar a _stack_ de desenvolvimento, com seu devido propósito.
 > Listar quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha de cada uma delas. 
 
 ## Cronograma
