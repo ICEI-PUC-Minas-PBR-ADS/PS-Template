@@ -88,9 +88,17 @@ https://orcid.org/0000-0003-0879-0943
 
 > __Principal resultado__:
 
-> __Trabalhos relacionados/Fundamentação teórica/Revisão de literatura__: 
+> __Fundamentação teórica/Revisão de literatura__: <br/>
+> __OBS__: é opcional, mas é importante ter.<br/>
 
-> __Contribuição__ (principal resultado e discussão):  
+> Apresentar a fundamentação teórica.
+
+> __Trabalhos relacionados__: <br/>
+
+> Apresentar os trabalhos relacionados.
+
+> __Contribuição__: <br/>
+> Pprincipal resultado e discussão.  
 
 ## Desenvolvimento / Problema / Produto / Serviço (Aqui, pode-se usar, como título, o nome do projeto/produto/serviço)
 
