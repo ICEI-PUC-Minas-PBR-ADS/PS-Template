@@ -92,40 +92,25 @@ https://orcid.org/0000-0003-0879-0943
 
 > __Contribuição__ (principal resultado e discussão):  
 
-Importante:
-•	Clareza e detalhamento dos requisitos levantados.
-•	Qualidade e adequação dos diagramas.
-•	Coerência na escolha da arquitetura e tecnologias.
-•	Criatividade e usabilidade dos protótipos de interface.
-•	Estrutura e clareza da documentação final.
+## Desenvolvimento / Problema / Produto / Serviço (Aqui, pode-se usar, como título, o nome do projeto/produto/serviço)
 
+> 1. Apresentar o contexto do problema que o projeto aborda.
+> 2. Apresentar o problema. 
+> 3. Descrever a solução proposta para o problema no projeto.
+> 4. Descrever o contexto em que a solução é empregada, se houver: empresa, tecnologias, etc. 
 
-
-## Problema
-> Apresentar o contexto do problema que o projeto aborda.
-
-> Apresentar o problema. 
-
-> Descrever a solução proposta para o problema no projeto.
-
-> Descrever o contexto em que a solução é empregada, se houver: empresa, tecnologias, etc. 
-
-> Descrever a metodologia: como Design Thinking, Scrum, etc.
-
-> A equipe de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema abordado no projeto.
-
-
+> __OBS__: a equipe pode fazer uso de questionários, entrevistas e dados estatísticos, que possam ser apresentados, com o propósito de esclarecer detalhes do problema abordado no projeto.
 
 ## Público-Alvo
 
 > Descrever o perfil do(s) grupo(s) de pessoas beneficiadas pelo projeto. A ideia é, dentro do possível, destacar: conhecimentos prévios, relação com a tecnologia, relações
 hierárquicas, relação com o problema tratado no projeto, etc.
 
-[Próximo](./2-TrabalhosRelacionados.md)
+> Leia mais em: </br>
+> https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3 <br/>
+> https://blog.mettzer.com/como-fazer-a-justificativa-de-tcc/ <br/>
+> https://hotmart.com/pt-br/blog/publico-alvo <br/>
 
+[Prof. Dr. Valtencir Zucolotto, USP](https://www.youtube.com/channel/UCc3JDWPbI4s0b-AeJ3WN03g/videos)
 
-Leia mais: https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3
-Leia mais: https://blog.mettzer.com/como-fazer-a-justificativa-de-tcc/
-Leia mais: https://hotmart.com/pt-br/blog/publico-alvo
-
-(Prof. Dr. Valtencir Zucolotto, USP)[(https://www.youtube.com/channel/UCc3JDWPbI4s0b-AeJ3WN03g/videos)]
+> Descrever a metodologia: como Design Thinking, Scrum, etc.
