@@ -113,31 +113,8 @@ https://orcid.org/0000-0003-0879-0943
 
 # Especificação do Projeto
 
-> Escrever um parágrafo inicial, apresentando uma visão geral do que é abordado nesta parte do documento. Enumerar técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto.
-
-## Título que especifica o projeto
-
+> Escrever um parágrafo inicial, apresentando uma visão geral da especificação do projeto. 
 > Escrever o texto que epecifica (explica, desenvolve) o projeto.
-
-## Personas
-
-> Exemplo:
-> Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país,
-pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
-buscando uma agência que o ajude a encontrar universidades na Europa
-que aceitem alunos estrangeiros.
-
-
-## Histórias de Usuários
-
-Com base na análise das personas foram identificadas as seguintes histórias de usuários:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-> Apresente aqui as histórias de usuário que são relevantes para o projeto. As Histórias de Usuário ajudam na compreensão e elicitação dos requisitos funcionais e não funcionais. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
 ## Público-Alvo
 
@@ -149,9 +126,34 @@ hierárquicas, relação com o problema tratado no projeto, etc.
 > https://blog.mettzer.com/como-fazer-a-justificativa-de-tcc/ <br/>
 > https://hotmart.com/pt-br/blog/publico-alvo <br/>
 
+## Personas
+> Especificar / detralhar o público-alvo através de personas.
+
+> __Exemplo__:
+> Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país,
+pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
+buscando uma agência que o ajude a encontrar universidades na Europa
+que aceitem alunos estrangeiros.
+
+## Histórias de Usuários
+> __Exemplo__:
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
+
+> __Exemplo__:
+
+__Quadro 1__: histórias de usuários.
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+__Fonte__: elaborado pelos autores.
+
+> Apresente aqui as histórias de usuário que são relevantes para o projeto. As Histórias de Usuário ajudam na compreensão e elicitação dos requisitos funcionais e não funcionais. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+
+
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+As tabelas que se seguem apresentam os requisitos funcionais, não funcionais e restrições que detalham o escopo do projeto.
 
 ### Requisitos Funcionais
 
