@@ -233,6 +233,9 @@ __Fonte__: elaborado pelos autores.
 ## Diagrama de Classes
 > Apresentar o diagrama de classes da aplicação.
 
+## Diagrama de Sequência
+> Apresentar o diagrama de sequência da aplicação.
+
 ## Banco de Dados
 > Apresentar o Diagrama de Entidades e Relacionamentos (DER) da aplicação.
 
