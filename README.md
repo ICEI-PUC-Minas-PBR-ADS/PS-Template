@@ -189,6 +189,7 @@ __Quadro 2__: requisitos funcionais.
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+
 __Fonte__: elaborado pelos autores.
 
 
