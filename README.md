@@ -306,3 +306,44 @@ Detalhar a metodologia empregada no desenvolvimento do projeto.
 > - [Referências Bibliográficas da ABNT](https://rockcontent.com/br/talent-blog/referencia-bibliografica-abnt/)
 > - [Sintaxe básica de gravação e formatação no GitHub](https://guides.github.com/features/mastering-markdown/)
 > - [Suporte Github](https://help.github.com/pt/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+
+
+Verifiquem nos links abaixo como devem ser as referências no padrão ABNT:
+https://usp.br/sddarquivos/aulasmetodologia/abnt6023.pdf 
+https://usp.br/sddarquivos/arquivos/citacoes10520.pdf 
+http://www.pucminas.br/imagedb/documento/DOC_DSC_NOME_ARQUI20160217102425.pdf
+
+
+Consulte também as páginas abaixo:
+
+•	https://tecnoblog.net/responde/referencia-site-abnt-artigos/ 
+
+•	https://tecnoblog.net/responde/como-referenciar-livros-em-abnt/ 
+
+
+
+
+Assista aos vídeos do canal abaixo:
+
+https://www.youtube.com/channel/UCc3JDWPbI4s0b-AeJ3WN03g/videos 
+
+
+
+9	ANEXO
+
+Prof. Dr. Valtencir Zucolotto, USP
+(https://www.youtube.com/channel/UCc3JDWPbI4s0b-AeJ3WN03g/videos):
+
+OBS: 
+É opcional.
+Textos, gráficos ou qualquer outro material que não tenha sido produzido pelo(s) autor(es) e que tenha como finalidade conferir complementação ao conteúdo.
+
+10	APÊNDICE
+
+Prof. Dr. Valtencir Zucolotto, USP
+(https://www.youtube.com/channel/UCc3JDWPbI4s0b-AeJ3WN03g/videos):
+
+OBS: 
+É opcional.
+Textos, gráficos ou qualquer outro material que tenha sido produzido pelo(s) autor(es) e que tenha como finalidade conferir complementação ao conteúdo.
+
