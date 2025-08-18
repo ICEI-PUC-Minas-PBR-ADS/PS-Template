@@ -88,24 +88,26 @@ https://orcid.org/0000-0003-0879-0943
 
 > __Principal resultado__:
 
-> __Fundamentação teórica/Revisão de literatura__: <br/>
+# Fundamentação Teórica / Revisão de Literatura
 > __OBS__: é opcional, mas é importante ter.<br/>
 
-> Apresentar a fundamentação teórica.
+> Apresentar a fundamentação teórica/ revisão de literatura.
 
-> __Trabalhos relacionados__: <br/>
+# Trabalhos Relacionados
 
 > Apresentar os trabalhos relacionados.
 
-> __Contribuição__: <br/>
+# Contribuição
 > Pprincipal resultado e discussão.  
 
-## Desenvolvimento / Problema / Produto / Serviço (Aqui, pode-se usar, como título, o nome do projeto/produto/serviço)
+# Desenvolvimento / Problema / Produto / Serviço 
+> __OBS__: aqui, pode-se usar, como título, o nome do projeto / produto / serviço.
 
 > 1. Apresentar o contexto do problema que o projeto aborda.
 > 2. Apresentar o problema. 
 > 3. Descrever a solução proposta para o problema no projeto.
-> 4. Descrever o contexto em que a solução é empregada, se houver: empresa, tecnologias, etc. 
+> 4. Descrever o contexto em que a solução é empregada, se houver: empresa, tecnologias, etc.
+> 5. Empregar figuras, quadros e tabelas que facilitem o entendimento do trabalho. 
 
 > __OBS__: a equipe pode fazer uso de questionários, entrevistas e dados estatísticos, que possam ser apresentados, com o propósito de esclarecer detalhes do problema abordado no projeto.
 
@@ -115,6 +117,10 @@ https://orcid.org/0000-0003-0879-0943
 
 > Escrever um parágrafo inicial, apresentando uma visão geral da especificação do projeto. 
 > Escrever o texto que epecifica (explica, desenvolve) o projeto.
+> Empregar figuras, quadros e tabelas que facilitem o entendimento do trabalho. 
+
+## Diagrama de Caso de Uso
+> Apresentar o diagrama de caso de uso da aplicação.
 
 ## Público-Alvo
 
@@ -148,7 +154,6 @@ __Quadro 1__: histórias de usuários.
 __Fonte__: elaborado pelos autores.
 
 > Apresente aqui as histórias de usuário que são relevantes para o projeto. As Histórias de Usuário ajudam na compreensão e elicitação dos requisitos funcionais e não funcionais. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
 
 ## Requisitos
 
@@ -212,24 +217,41 @@ __Fonte__: elaborado pelos autores.
 > - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Prototipagem e Fluxo do Usuário
-
 > Apresentar o protótipo das telas da aplicação.
 
 > Apresentar o fluxo do usuário (_user flow_: navegação do usuário pelas telas da aplicação).
 
 ## Padrão Arquitetural
-
 > Detalhar o padrão arquitetural (arquitetura de _software_) do sistema desenvolvido. <br/>
-> __OBS__: neste caso o padrão arquitetural __REST__.
 
-## Padrão de Projeto
-
-> Especificar, os padrões de projeto utilizados no sistema desenvolvido.
+## Diagrama de Classes
+> Apresentar o diagrama de classes da aplicação.
 
 ## Banco de Dados
-
 > Apresentar o Diagrama de Entidades e Relacionamentos (DER) da aplicação.
 
+## Padrão de Projeto
+> Especificar, os padrões de projeto (GoF) utilizados no sistema desenvolvido.
+
+# Metodologia
+Detalhar a metodologia empregada no desenvolvimento do projeto.
+
+> Descrever a metodologia (do geral para o específico): como Design Thinking, Scrum, etc.
+
+## Arquitetura da Aplicação
+> Informar a arquitetura da aplicação.
+> __OBS__: neste caso o padrão arquitetural __REST__.
 
 
-> Descrever a metodologia: como Design Thinking, Scrum, etc.
+## Ferramentas
+> Informar as tecnologias empregadas.
+
+> Listar quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha de cada uma delas. 
+
+## Cronograma
+
+> Apresentar o cronograma de desenvolvimento do projeto.
+
+
+
+
