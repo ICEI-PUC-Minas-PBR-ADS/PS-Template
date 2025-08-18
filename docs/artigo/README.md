@@ -219,8 +219,8 @@ __Fonte__: elaborado pelos autores.
 
 ## Padrão Arquitetural
 
-> Detalhar o padrão arquitetural (arquitetura de _software_) do sistema desenvolvido.
-> __OBS__: neste caso o padrão arquitetural REST.
+> Detalhar o padrão arquitetural (arquitetura de _software_) do sistema desenvolvido. <br/>
+> __OBS__: neste caso o padrão arquitetural __REST__.
 
 ## Padrão de Projeto
 
