@@ -105,9 +105,10 @@ https://orcid.org/0000-0003-0879-0943
 
 > 1. Apresentar o contexto do problema que o projeto aborda.
 > 2. Apresentar o problema. 
-> 3. Descrever a solução proposta para o problema no projeto.
-> 4. Descrever o contexto em que a solução é empregada, se houver: empresa, tecnologias, etc.
-> 5. Empregar figuras, quadros e tabelas que facilitem o entendimento do trabalho. 
+> 3. Contextualizar com os `Objetivos de Desenvolvimento Sustentável (ODS) da ONU.`. Incluir o(s) número(s) e a(s) descrição(ões) do(s) ODS da ONU que o projeto atende. 
+> 4. Descrever a solução proposta para o problema no projeto.
+> 5. Descrever o contexto em que a solução é empregada, se houver: empresa, tecnologias, etc.
+> 6. Empregar figuras, quadros e tabelas que facilitem o entendimento do trabalho. 
 
 > __OBS__: a equipe pode fazer uso de questionários, entrevistas e dados estatísticos, que possam ser apresentados, com o propósito de esclarecer detalhes do problema abordado no projeto.
 
