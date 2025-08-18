@@ -153,6 +153,7 @@ __Quadro 1__: histórias de usuários.
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+
 __Fonte__: elaborado pelos autores.
 
 > Apresente aqui as histórias de usuário que são relevantes para o projeto. As Histórias de Usuário ajudam na compreensão e elicitação dos requisitos funcionais e não funcionais. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
