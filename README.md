@@ -18,7 +18,8 @@
 > __Exemplo__:
 ```
 Ana de Souza Silva 
-Discente do curso tecnólogo em Análise e Desenvolvimento de Sistemas da Pontifícia Universidade Católica de Minas Gerais, Belo Horizonte, MG, Brasil 
+Discente do curso tecnólogo em Análise e Desenvolvimento de Sistemas da Pontifícia Universidade Católica de Minas Gerais
+Belo Horizonte, MG, Brasil 
 anadesouzasilva@e-mail.com 
 https://orcid.org/9009-9009-9009-9009
 ```
