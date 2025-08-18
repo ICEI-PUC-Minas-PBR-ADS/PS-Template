@@ -245,8 +245,9 @@ Detalhar a metodologia empregada no desenvolvimento do projeto.
 > Descrever a metodologia (do geral para o específico): como Design Thinking, Scrum, etc.
 
 ## Arquitetura da Aplicação
-> Informar a arquitetura da aplicação.
-> __OBS__: neste caso o padrão arquitetural __REST__.
+> Informar a arquitetura da aplicação. <br/>
+> __OBS__: neste caso o padrão arquitetural __REST__ (Representational State Transfer). <br/>
+> Justificar a escolha da arquitetura de software e apresentar como ele atende aos requisitos levantados.
 
 
 ## Ferramentas
