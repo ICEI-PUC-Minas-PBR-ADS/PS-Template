@@ -324,7 +324,7 @@ https://www.youtube.com/channel/UCc3JDWPbI4s0b-AeJ3WN03g/videos
 
 > __OBS__: <br/>
 > É opcional.  <br/>
-> Textos, gráficos ou qualquer outro material que não tenha sido produzido pelo(s) autor(es) e que tenha como finalidade conferir complementação ao conteúdo.  <br/>
+> Textos, gráficos ou qualquer outro material que __não__ tenha sido produzido pelo(s) autor(es) e que tenha como finalidade conferir complementação ao conteúdo.  <br/>
 
 # APÊNDICE
 
