@@ -61,32 +61,37 @@ https://orcid.org/0000-0003-0879-0943
 
 # Introdução
 
-> A introdução deve contextualizar o trabalho. 
-> Na contextualização, a equipe deve dizer do que se trata o trabalho, em que área ou contexto se insere. 
-> A contextualização deve ser desenvolvida de algo mais genérico para algo mais específico. 
-> É necessário citar pesquisas aqui (corretamente referenciadas).
+> __Contexto__ (do geral para o específico): 
 
+> 1. A introdução deve contextualizar o trabalho. <br/>
+> 2. Na contextualização, a equipe deve dizer do que se trata o trabalho, em que área ou contexto se insere. <br/> 
+> 3. A contextualização deve ser desenvolvida de algo mais genérico para algo mais específico. <br/> 
+> 4. É necessário citar pesquisas aqui (corretamente referenciadas).
 
-Contexto (do geral para o específico): 
+> __Lacuna__ ("gap"): <br/>
+> Entretanto, contudo, no entanto, apesar disso, embora... 
 
-Lacuna ("gap"): (Entretanto, contudo, no entanto, apesar disso, embora)... 
+> __Objetivo__ (propósito): <br/>
+> Neste artigo / neste trabalho / aqui foi apresentado / descrito / mostrado / reportado... <br/>
+> 1. Tema: no objetivo, o tema do trabalho tem que ficar claro e evidente. Exemplo: 
+> 2. O objetivo precisa estar ligado ao principal resultado alcaçado pela equipe no desenvolvimento do projeto. <br/>
+> 3. O objetivo precisa deixar claro como a lacuna ("gap") foi tratada / abordada / sanada / etc... <br/>
 
+> __Exemplo__: <br/>
+> Neste trabalho, foi desenvolvido um sistema de gestão de universidades...
 
-Objetivo (propósito): (Neste artigo, neste trabalho, aqui) foi (apresentado, descrito, mostrado, reportado)... 
+> __Motivação/Justificativa__: <br/>
+> 1. Descrever o motivo / a importância de tratar o problema da forma escolhida e declarada no objetivo. 
+> 2. Indicar as razões pelas quais a equipe escolheu o objetivo declarado.
+ 
+> __Metodologia__:
 
-Objetivo: 
-O objetivo deste trabalho foi desenvolver um projeto de software que aplique os conceitos e práticas de design de software, incluindo análise de requisitos, modelagem, escolha de arquiteturas e design de interfaces. [Os alunos deverão demonstrar a capacidade de criar um sistema que seja funcional, escalável e usável].
-Tema: 
-Desenvolvimento de um sistema de gestão ativos financeiros adquiridos pelos clientes de uma corretora de títulos e valores mobiliários (CTVM).
+> __Principal resultado__:
 
-Prof. Dr. Valtencir Zucolotto, USP
-(https://www.youtube.com/channel/UCc3JDWPbI4s0b-AeJ3WN03g/videos):
+> __Trabalhos relacionados/Fundamentação teórica/Revisão de literatura__: 
 
-Motivação/Justificativa: 
+> __Contribuição__ (principal resultado e discussão):  
 
-Trabalhos relacionados/Fundamentação teórica/Revisão de literatura: 
-
-Contribuição (principal resultado e discussão):  
 Importante:
 •	Clareza e detalhamento dos requisitos levantados.
 •	Qualidade e adequação dos diagramas.
@@ -107,17 +112,9 @@ Importante:
 
 > Descrever a metodologia: como Design Thinking, Scrum, etc.
 
-## Objetivos
-
-> Descrever o objetivo do trabalho.
-
-## Justificativa
-
-> Descrever a importância ou a motivação para trabalhar com o problema escolhido. 
-
-> Indicar as razões pelas quais a equipe escolheu o objetivo.
- 
 > A equipe de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema abordado no projeto.
+
+
 
 ## Público-Alvo
 
