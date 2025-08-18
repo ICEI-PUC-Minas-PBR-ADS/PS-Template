@@ -200,6 +200,7 @@ __Quadro 3__: requisitos não funcionais.
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+
 __Fonte__: elaborado pelos autores.
 
 ### Restrições
@@ -211,6 +212,7 @@ __Quadro 4__: restrições.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
+
 __Fonte__: elaborado pelos autores.
 
 
