@@ -308,7 +308,6 @@ Detalhar a metodologia empregada no desenvolvimento do projeto.
 > - [Suporte Github](https://help.github.com/pt/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 > - https://usp.br/sddarquivos/aulasmetodologia/abnt6023.pdf 
 > - https://usp.br/sddarquivos/arquivos/citacoes10520.pdf 
-> - http://www.pucminas.br/imagedb/documento/DOC_DSC_NOME_ARQUI20160217102425.pdf
 > - https://tecnoblog.net/responde/referencia-site-abnt-artigos/ 
 > - https://tecnoblog.net/responde/como-referenciar-livros-em-abnt/ 
 
